@@ -1,0 +1,27 @@
+{
+  "name": "myobluetooth",
+  "version": "1.0.0",
+  "description": "MyoBluetooth",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nheuberger/MyoBluetooth.git"
+  },
+  "keywords": [
+    "bluetooth"
+  ],
+  "author": "Nick heuberger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nheuberger/MyoBluetooth/issues"
+  },
+  "homepage": "https://github.com/nheuberger/MyoBluetooth#readme"
+}
